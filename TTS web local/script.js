@@ -1,7 +1,7 @@
 // Configuración
 //const channelInput = document.getElementById('channelName');
 //const chatLog = document.getElementById('chatLog');
-const channelInput = 'horoowolf';
+const channelInput = 'mae10_0';
 const isDice = false;
 let client = null;
 const elements = {
@@ -228,5 +228,6 @@ function connectToChat() {
 }
 
 connectToChat();
+
 
 
